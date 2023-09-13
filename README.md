@@ -17,15 +17,15 @@
   <h2><picture>
   </picture> Domain :</h2></div>
   <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.globalsign.com%2Fen-sg%2Fblog%2Fwhat-internet-things-and-how-does-it-work&psig=AOvVaw39qah7Yw0faJy-Y28qdKdp&ust=1694714663125000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjgqaKWqIEDFQAAAAAdAAAAABAJ" width="400"/>
+  <img src="https://www.globalsign.com/application/files/7416/3763/0034/General_Banner_WhatisIOT_4_APAC_2021_11_22.jpg" width="400"/>
  </div>
  
   <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fiies.in%2Fcrash-courses%2Fembedded-c-crash-course%2F&psig=AOvVaw3eRLDGsH9BC1hLC4-wzY82&ust=1694714754118000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNji3MqWqIEDFQAAAAAdAAAAABAJ" width="400"/>
+  <img src="https://3.bp.blogspot.com/-VrjycYAexGk/VY1cmI9zmtI/AAAAAAAAAxM/nF-L2RciWiU/s1600/c-programming.jpg" width="400"/>
  </div>
 
   <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2Fsoftware&psig=AOvVaw2IcgqCmTVUth1-EnUh043i&ust=1694714831338000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDds-6WqIEDFQAAAAAdAAAAABAE" width="400"/>
+  <img src="https://makezine.com/wp-content/uploads/make-images/sCXSdHW5FTPfREOF.jpg" width="400"/>
  </div>
  
  <div>
