@@ -13,11 +13,11 @@ Project Description:
 
 * Every tree will be equipped with one small electronics unit which consists of Micro Controller, vibration Sensor, MEMS, GPS and IOT module.
 
-In big forest, each tree will be having sensor unit which is fitted on stem of tree will Communicate with their server unit.
+* In big forest, each tree will be having sensor unit which is fitted on stem of tree will Communicate with their server unit.
 
 * The communication between tree unit and server unit take place by using IOT module.
 
-Tree cutting will be detected by vibration sensors, sound sensor and MEMS.
+* Tree cutting will be detected by vibration sensors, sound sensor and MEMS.
 
 * By using sound sensor we can predict the cutting tree. Once the tree will fallen the nearest tree will sense the sound of fallen trees and send the signal to server.
 
