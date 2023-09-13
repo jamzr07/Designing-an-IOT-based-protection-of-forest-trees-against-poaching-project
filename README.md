@@ -1,7 +1,6 @@
+# Project Title
 
-#Project Title
-
-#Designing an IOT based protection of forest trees against poaching project
+# Designing an IOT based protection of forest trees against poaching project
 
 - Team Members:
   - A. JAMESRAJ
@@ -70,5 +69,4 @@
 
 <li>Sensor values having some fixed threshold value, once the threshold value will matched to the current value it will send the alert through IOT. </li>
 
-<li>Due to nature disaster some trees may fallen. for that purpose we are using IOT module for continuous monitoring of trees. </li>
-  </ul>
+<li>Due to nature disaster some trees may fallen. for that purpose we are using IOT module for continuous monitoring of trees. </li></ul><br></div>
